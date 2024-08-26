@@ -17,7 +17,7 @@ To install PayFlow, download the app from the App Store.
 3. Start tracking your earnings instantly.
 
 ## Privacy Policy
-We value your privacy. PayFlow only collects your email, username, and password for identification purposes. Your password is encrypted and securely stored. We do not collect or share your personal information. For more details, please read our [Privacy Policy](#).
+We value your privacy. PayFlow only collects your email, username, and password for identification purposes. Your password is encrypted and securely stored. We do not collect or share your personal information. For more details, please read our [Privacy Policy](#) in the support file. 
 
 ## Support
 For any questions or issues, contact us at : rawima2@gmail.com
